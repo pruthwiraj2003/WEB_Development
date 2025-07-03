@@ -79,3 +79,74 @@
     border-top-left-radius: 4px;
     color: #0f1111;
 }
+       /* box4 */
+       span{
+        font-size: 0.7rem;
+       }
+.nav-search:hover{
+    border: 2px solid orange;
+
+}
+.nav-second{
+    font-size: 0.85rem;
+    font-weight: 700;
+}
+/* box6 */
+.nav-cart i{
+    font-size: 38px;
+
+}
+.nav-cart{
+    font-size: 0.85rem;
+    font-weight: 700;
+}
+/* Pannel */
+.pannel{
+    height: 40px;
+    background-color: #222f3d;
+    display: flex;
+    color: white;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.pannel-ops p{
+    display: inline;
+    margin-left: 15px;
+    
+}
+.pannel-ops{
+width: 70%;
+font-size: o.85rem;
+}
+.pannel-deals{
+    font-size: 0.9rem;
+    font-weight: 700;
+}
+
+/* /Hero-section */
+.hero-section{
+    background-image: url(sub-hero.jpg);
+    background-size: cover;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    
+    
+}
+  /* shop section */
+  .shop-section{
+    display: flex;
+    justify-content: space-evenly;
+    background-color:rgb(248, 235, 222);
+  }
+.box{
+    border: 2px solid black;
+    height: 400px;
+    width: 23%;
+    padding: 20px 0px 15px;
+}
+.box-img{
+    height: 300px;
+    
+
+}
